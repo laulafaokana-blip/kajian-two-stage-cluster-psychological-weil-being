@@ -39,7 +39,7 @@
    - Perbandingan Antar Indikator
    - Pembahasan Berdasarkan Teori Ryff
 
-5. Kesimpulan
+5. Penutup
    - Kesimpulan
    - Saran
 
@@ -427,7 +427,7 @@ Sehingga Diperoleh
 Interpretasi:
 Hasil pembobotan menunjukkan bahwa responden pada kelas 24A memiliki bobot sebesar 4,10, sedangkan responden pada kelas 25B memiliki bobot sebesar 4,43. Perbedaan bobot tersebut disebabkan oleh perbedaan peluang pemilihan responden pada masing-masing kelas. Bobot ini selanjutnya digunakan dalam seluruh proses estimasi sehingga hasil yang diperoleh mampu merepresentasikan populasi mahasiswa Program Studi Statistika Universitas Mataram secara lebih akurat. 
 
-​### 3.2.7 Pembentukan Survey Design
+### 3.2.7 Pembentukan Survey Design
 Setelah bobot sampling diperoleh, langkah berikutnya adalah membentuk objek survey design menggunakan package survey pada RStudio. Tahap ini bertujuan agar seluruh proses estimasi mempertimbangkan struktur cluster dan bobot hasil pengambilan sampel.
 
 | Komponen         | Nilai                      |
@@ -651,7 +651,7 @@ Sementara itu, indikator Autonomy memperoleh rata-rata 3,475 dengan indeks 61,88
 
 Secara keseluruhan, nilai Relative Standard Error seluruh indikator berada di bawah 10%, sehingga seluruh hasil estimasi dapat dikatakan memiliki tingkat presisi yang sangat baik. Selain itu, seluruh interval kepercayaan berada pada rentang yang relatif sempit sehingga estimasi yang dihasilkan cukup representatif dalam menggambarkan kondisi Psychological Well-Being mahasiswa Program Studi Statistika Universitas Mataram.
 
-# BAB V PENUTUO
+# BAB V PENUTUP
 ## Kesimpulan
 Penelitian ini berhasil mengkaji tingkat Psychological Well-Being mahasiswa Program Studi Statistika Universitas Mataram menggunakan teknik Two-Stage Cluster Sampling. Berdasarkan hasil estimasi, seluruh dimensi Psychological Well-Being berada pada kategori tinggi, yang menunjukkan bahwa mahasiswa secara umum memiliki kondisi kesejahteraan psikologis yang baik.
 
